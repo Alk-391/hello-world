@@ -1,4 +1,4 @@
-// Hello World In Java by Antoo
+// Hello World in Java by Antoo
 // 01 Jan 2021
 
 class HelloWorld {
